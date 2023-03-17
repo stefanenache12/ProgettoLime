@@ -1,0 +1,90 @@
+body{
+    background-image:url(img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header{
+    text-align: center;
+}
+
+.container{
+    width: 800px;
+    height: 800px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+
+.logo{
+    width: 150px;
+}
+
+.titolo{
+    color: lime;
+    font-size: 10px;
+    text-align: center;
+
+}
+
+.prenotazioni{
+    background-color: lime;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+}
+
+.monopattini{
+    color: white;
+    font-style: arial;
+    font-size: 18px;
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.monopattino1{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.monopattino2{
+    margin-top: 20px;
+}
+
+.monopattino3{
+    margin-top: 20px;
+}
+.statocarica1{
+    display: inline-block;
+    width: 40%;
+    background-color: orange;
+    border-radius: 10px;
+    color: orange;
+}
+
+.statocarica2{
+    display: inline-block;
+    width: 70%;
+    background-color: lime;
+    border-radius: 10px;
+    color: lime;
+}
+
+.statocarica3{
+    display: inline-block;
+    width: 20%;
+    background-color: red;
+    border-radius: 10px;
+    color: red;
+}
+
+footer{
+    text-align: center;
+    color: lime;
+    font-size: 5px;
+    font-style: arial;
+    margin-top: 200px;
+}
